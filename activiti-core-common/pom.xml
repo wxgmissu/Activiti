@@ -12,7 +12,7 @@
   <packaging>pom</packaging>
   <name>Activiti :: Core :: Common</name>
   <properties>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
   </properties>
   <dependencyManagement>
     <dependencies>
